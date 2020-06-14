@@ -1,0 +1,34 @@
+{
+  "people": [
+    {
+      "name": "Diadji",
+      "age": "24",
+      "country": "Senegal"
+    },
+    {
+      "name": "Moussa Diop",
+      "age": "24",
+      "country": "Senegal"
+    },
+    {
+      "name": "Fatma",
+      "age": "24",
+      "country": "Senegal"
+    },
+    {
+      "name": "Mouhamed",
+      "age": "25",
+      "country": "France"
+    },
+    {
+      "name": "Minreva",
+      "age": "23",
+      "country": "France"
+    },
+    {
+      "name": "Astou",
+      "age": "15",
+      "country": "Senegal"
+    }
+  ]
+}
